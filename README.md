@@ -2,14 +2,21 @@
 
 A repo for development and testing of our own smart furniture line.
 
-## Elegoo ESP32 DEVKIT  V1
+## Elegoo ESP32 DEVKIT V1
 
-- On Arduino IDE, appears as the DOIT ESP32 DEVKIT V1
+### Project Roadmap
+
+- [ ] Establish one to many connection to ESP32s
+- [ ] Set up system diagram
+    - [ ] What's contained in each payload
+    - [ ] What the controller/device ESPs are running as software
 
 
 ### Setup
 
 Follow [this](https://randomnerdtutorials.com/installing-esp32-arduino-ide-2-0/) guide* to set up the Arduino IDE for usage.
+
+On Arduino IDE, appears as the DOIT ESP32 DEVKIT V1
 
 For Windows, had to install [this](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?utm_source=chatgpt.com&tab=downloads) driver as well to connect to the ESP32 through USB.
 
